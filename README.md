@@ -9,15 +9,15 @@ El equipo está conformado por cuatro integrantes con roles fijos que aportan cl
 
 | Integrante   | Rol                                              |
 |--------------|--------------------------------------------------|
-| Franco       | Chief Project Orchestrator & Delivery Manager    |
-| Joaquin      | Principal Software Architect & Technical Lead    |
-| Tomas        | Full-Stack Integration Engineer                  |
-| Baltazar     | Systems Quality & DevOps Specialist              |
+| Franco       | DevOps / Control de Versiones (Git Manager)      |
+| Joaquin      | Database Manager (Encargado de Base de Datos)    |
+| Tomas        | Backend Developer (Desarrollador Backend)        |
+| Baltazar     | Project Manager / Manager                        |
 
 **Rotación de responsabilidades técnicas por TP**  
 (Esto asegura que cada integrante implemente código backend en todos los entregables y aprenda de lo realizado por los demás):
 
-| TP  | Chief Project Orchestrator & Delivery Manager (Franco) | Principal Software Architect & Technical Lead (Joaquin) | Full-Stack Integration Engineer (Tomas) | Systems Quality & DevOps Specialist (Baltazar) |
+| TP  | DevOps / Control de Versiones (Git Manager) (Franco) | Database Manager (Encargado de Base de Datos) (Joaquin) | Backend Developer (Desarrollador Backend) (Tomas) | Project Manager / Manager (Baltazar) |
 |-----|--------------------------------------------------------|---------------------------------------------------------|-----------------------------------------|------------------------------------------------|
 | TP2 | Configuración del servidor Express + rutas base        | Estructura de módulos y organización del proyecto       | Integración con MockAPI + fetch del front | Testing de endpoints + documentación           |
 | TP3 | Implementación MVC + controladores                     | Diseño de la base de datos + modelos                    | CRUD completo (5 endpoints)             | Frontend de administración + integración       |
