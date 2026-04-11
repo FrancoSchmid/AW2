@@ -3,7 +3,7 @@ Proyecto TP1-TP4 – Aplicaciones Web II – Backend con Node.js + Express + CRU
 
 ### 1.1. Equipo y roles
 
-El equipo está conformado por cuatro integrantes con roles fijos que aportan claridad y responsabilidad durante todo el desarrollo del proyecto. Estos roles no rotan, pero las responsabilidades técnicas específicas sí rotan entre los TPs para garantizar que todos los miembros adquieran experiencia completa en backend (Node.js, Express, bases de datos y seguridad), tal como exige la orientación backend-heavy de la materia.
+El equipo está conformado por cuatro integrantes con roles fijos que aportan claridad y responsabilidad durante todo el desarrollo del proyecto. Estos roles no rotan, pero las responsabilidades técnicas específicas sí rotan entre los TPs para garantizar que todos los miembros adquieran experiencia completa en backend (Node.js, Express, bases de datos y seguridad).
 
 **Roles fijos:**
 
@@ -14,8 +14,7 @@ El equipo está conformado por cuatro integrantes con roles fijos que aportan cl
 | Tomas        | Backend Developer (Desarrollador Backend)        |
 | Baltazar     | Project Manager / Manager                        |
 
-**Rotación de responsabilidades técnicas por TP**  
-(Esto asegura que cada integrante implemente código backend en todos los entregables y aprenda de lo realizado por los demás):
+**Rotación de responsabilidades técnicas por TP**:
 
 | TP  | DevOps / Control de Versiones (Git Manager) (Franco) | Database Manager (Encargado de Base de Datos) (Joaquin) | Backend Developer (Desarrollador Backend) (Tomas) | Project Manager / Manager (Baltazar) |
 |-----|--------------------------------------------------------|---------------------------------------------------------|-----------------------------------------|------------------------------------------------|
@@ -27,12 +26,12 @@ El equipo está conformado por cuatro integrantes con roles fijos que aportan cl
 
 ### 1.3. Cronograma de avances y presentaciones
 
-Se utilizará **GitHub Projects** con método Kanban como herramienta de organización de tareas (ver sección 1.4). El cronograma general de entregas es el siguiente:
+Se utilizará **Notion** con método Kanban como herramienta de organización de tareas. El cronograma general de entregas es el siguiente:
 
-- **TP1 – Propuesta por escrito**: Viernes [poné la fecha exacta de entrega]  
-- **TP2 – Back-end para servir el sitio web**: [fecha que indique el profesor]  
-- **TP3 – Creación del CRUD para administrar Front-End**: [fecha que indique el profesor]  
-- **TP4 – Implementación de autenticación, accesos y seguridad**: [fecha que indique el profesor]  
+- **TP1 – Propuesta por escrito**: 10/04
+- **TP2 – Back-end para servir el sitio web**: 01/05 
+- **TP3 – Creación del CRUD para administrar Front-End**: 29/05 
+- **TP4 – Implementación de autenticación, accesos y seguridad**: 19/06 
 
 Dentro de cada TP se definirán hitos semanales en el tablero Kanban (Backlog → To Do → In Progress → Review → Done) para mantener un flujo continuo y detectar cuellos de botella tempranamente.
 
@@ -41,8 +40,7 @@ Dentro de cada TP se definirán hitos semanales en el tablero Kanban (Backlog �
 - **Control de versiones**: Git + GitHub (repositorio privado del grupo).  
   Se trabajará con branches por funcionalidad, Pull Requests obligatorios y revisión de al menos un compañero antes de mergear a main. Esto permite controlar los cambios y mantener la trazabilidad completa del proyecto.
 
-- **Seguimiento y organización de tareas**: **GitHub Projects** con tablero Kanban.  
-  **¿Por qué GitHub Projects y no Trello o Notion?** Porque el proyecto es 100 % código backend. Las tarjetas se convierten automáticamente en Issues y Pull Requests, por lo que no hay doble trabajo ni copiar-pegar links. Es la herramienta más profesional, gratuita y nativa para un equipo que va a escribir Node.js + Express durante todo el semestre.
+- **Seguimiento y organización de tareas**: **Notion** con tablero Kanban.  
 
 **Flujo Kanban definido:**
 - **Backlog** → ideas y tareas pendientes  
@@ -50,5 +48,3 @@ Dentro de cada TP se definirán hitos semanales en el tablero Kanban (Backlog �
 - **In Progress** → máximo 2 tarjetas por persona (evita multitasking)  
 - **Review** → código listo para revisión por pares  
 - **Done** → mergeado y probado  
-
-Esta combinación de Git + GitHub Projects cumple perfectamente con las consignas 1.3 y 1.4 y nos da visibilidad total del progreso en tiempo real.
